@@ -1,0 +1,5 @@
+Main.java allows the game to be run in the consol without a gui.
+testingHyp.java is a testing file to determine properties of the game when playied optimally.
+NumberGameGUI.java is the same as Main.java but with a gui.
+
+The jar file is compiled with java 8 so as long at the system running the program has java instailled one can download it and be able to run it. This is the compiled version of NumberGameGUI.java.
